@@ -1,9 +1,7 @@
 # 🌟 Beautiful React + Tailwind Portfolio
 
 <div align="center">
-  <a href="https://your-live-site.vercel.app" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner" width="700"/>
-  </a>
+  
   <br /><br />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
