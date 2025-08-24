@@ -3,33 +3,62 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Career Orbit Ai",
+    description:  "AI-powered career coach with resume & cover letter generation, industry insights, and mock tests.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: [ "React 19",
+      "Next.js 15",
+      "Tailwind CSS",
+      "ShadCN UI",
+      "Node.js",
+      "Prisma",
+      "NeonDB",
+      "Clerk",
+      "Inngest",
+      "Gemini API",],
+    demoUrl: "https://career-orbit-ai-ulcy.vercel.app/",
+    githubUrl: "https://github.com/Mahendra07112003/Career-Orbit-AI",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "VisionChat",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+    "An AI-powered chatbot clone with real-time conversation and image generation using Hugging Face API.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    id: 3,
-    title: "E-commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },
+    tags:  [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Gemini API",
+      "Hugging Face API",
+      "Image Generation",
+      
+    ],
+    demoUrl: "https://sample-tawny-xi.vercel.app/",
+    githubUrl: "https://github.com/Mahendra07112003/sample",
+  }
+,  
+
+{
+  id: 3,
+  title: "AI Meeting Summarizer",
+  description:
+    "AI-powered app to upload meeting transcripts, generate editable summaries using Google Gemini API, and share via email.",
+  image: "/projects/project3.png",
+  tags: [
+    "Next.js 15",
+    "React 19",
+    "TypeScript",
+    "Tailwind CSS",
+    "Google Gemini API",
+    "Email Sharing",
+    "AI Summarization"
+  ],
+  demoUrl: "https://ai-meeting-summarizer-ivory.vercel.app",
+  githubUrl: "https://github.com/Mahendra07112003/Ai-meeting-summarizer",
+}
+
 ];
 
 export const ProjectsSection = () => {
@@ -100,7 +129,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/Mahendra07112003/mgmakwana07112003"
           >
             Check My Github <ArrowRight size={16} />
           </a>

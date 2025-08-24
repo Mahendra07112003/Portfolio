@@ -12,11 +12,11 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate Full Stack Developer
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
+              With  experience in web development, I specialize
               in creating responsive, accessible, and performant web
               applications using modern technologies.
             </p>
@@ -50,10 +50,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> Full Stack Development</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Developing scalable end-to-end applications by integrating modern frontend frameworks with secure and efficient backend systems.
                   </p>
                 </div>
               </div>
@@ -64,10 +63,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Frontend Development</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                  Building responsive, high-performance web applications using modern frameworks and clean UI design.
                   </p>
                 </div>
               </div>
@@ -79,10 +77,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">AI & Automation</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Integrating AI APIs like Gemini & Hugging Face with workflow automation tools such as n8n to build smart and scalable solutions.
                   </p>
                 </div>
               </div>
