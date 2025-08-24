@@ -10,7 +10,7 @@ This is a **personal portfolio website** built with **React**, **Tailwind CSS**,
 - Contact form with validation and notifications  
 - Fully responsive for desktop and mobile  
 
-**Live Demo:** [https://portfolio-mocha-eta.vercel.app/](https://portfolio-mocha-eta.vercel.app/)  
+**Live Demo:** [https://mahendra-makwana-portfolio.vercel.app/](https://mahendra-makwana-portfolio.vercel.app/)  
 
 ---
 
